@@ -13,11 +13,7 @@
 .liststyle{
     background-color: lightgray;
 }
-/*class used for minus bullet content */
-.points{
-    margin-left: 50px;
-    padding: 10px;
-}
+
 /*class used for distance between list and icon */
 .dist{
   margin-right:10px ;
@@ -29,5 +25,5 @@ h3{
     padding: 20px;
 }
 .items{
-    background-color: light;
+    background-color: lightgray;
 }
